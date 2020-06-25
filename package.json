@@ -1,0 +1,28 @@
+{
+    "name": "example-minecraft-launcher",
+    "version": "1.0.0",
+    "description": "Example Minecraft launcher based on MCLL module.",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/maksimetny/example-minecraft-launcher.git"
+    },
+    "keywords": [
+        "minecraft",
+        "minecraft-launcher-lib",
+        "launcher"
+    ],
+    "author": {
+        "email": "maksimetny@gmail.com",
+        "url": "https://maksimetny.com",
+        "name": "Dmitry Maksimetny"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/maksimetny/example-minecraft-launcher/issues"
+    },
+    "homepage": "https://github.com/maksimetny/example-minecraft-launcher#readme"
+}
