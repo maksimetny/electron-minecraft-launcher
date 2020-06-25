@@ -24,5 +24,11 @@
     "bugs": {
         "url": "https://github.com/maksimetny/example-minecraft-launcher/issues"
     },
-    "homepage": "https://github.com/maksimetny/example-minecraft-launcher#readme"
+    "homepage": "https://github.com/maksimetny/example-minecraft-launcher#readme",
+    "devDependencies": {
+        "electron": "^9.0.5"
+    },
+    "dependencies": {
+        "minecraft-launcher-lib": "^0.3.0"
+    }
 }
