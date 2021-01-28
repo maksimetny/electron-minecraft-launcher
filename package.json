@@ -26,7 +26,7 @@
     },
     "homepage": "https://github.com/maksimetny/example-minecraft-launcher#readme",
     "devDependencies": {
-        "electron": "^9.0.5"
+        "electron": "^9.4.0"
     },
     "dependencies": {
         "minecraft-launcher-lib": "^0.3.0"
